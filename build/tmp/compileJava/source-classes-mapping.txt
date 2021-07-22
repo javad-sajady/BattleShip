@@ -1,0 +1,120 @@
+Client/logic/Ship.java
+ Client.logic.Ship
+Client/logic/Game.java
+ Client.logic.Game
+Client/view/homePanel/ToolsBar2.java
+ Client.view.homePanel.ToolsBar2
+Client/logic/Account.java
+ Client.logic.Account
+Client/view/entrancePanel/ToolsBar.java
+ Client.view.entrancePanel.ToolsBar
+server/logic/LogicConstant.java
+ server.logic.LogicConstant
+server/logic/Shuffle.java
+ server.logic.Shuffle
+server/logic/Ship.java
+ server.logic.Ship
+server/Constant.java
+ server.Constant
+server/logic/Game.java
+ server.logic.Game
+server/logic/Ships.java
+ server.logic.Ships
+Client/view/homePanel/HomePage.java
+ Client.view.homePanel.HomePage
+Client/Client.java
+ Client.Client
+Client/ClientWait.java
+ Client.ClientWait
+Client/listtener/loginCreate/RegistrationFormListener.java
+ Client.listtener.loginCreate.RegistrationFormListener
+Client/view/homePanel/PersonalView.java
+ Client.view.homePanel.PersonalView
+Client/listtener/FormListener.java
+ Client.listtener.FormListener
+Client/listtener/StringListener.java
+ Client.listtener.StringListener
+Client/view/gamePanel/GameLabel.java
+ Client.view.gamePanel.GameLabel
+Client/logic/Shoot.java
+ Client.logic.Shoot
+server/ServerWait.java
+ server.ServerWait
+Client/logic/ShootShips.java
+ Client.logic.ShootShips
+Client/listtener/loginCreate/LoginFormListener.java
+ Client.listtener.loginCreate.LoginFormListener
+Client/view/shufflePanel/ToolsBar3.java
+ Client.view.shufflePanel.ToolsBar3
+server/logic/Position.java
+ server.logic.Position
+Client/ClientSideConnection.java
+ Client.ClientSideConnection
+Client/view/event/LoginFormEvent.java
+ Client.view.event.LoginFormEvent
+server/logic/Shoot.java
+ server.logic.Shoot
+Client/logic/Ships.java
+ Client.logic.Ships
+server/FileManager.java
+ server.FileManager
+Client/view/ViewConstant.java
+ Client.view.ViewConstant
+Client/view/event/RegistrationFormEvent.java
+ Client.view.event.RegistrationFormEvent
+server/logic/Account.java
+ server.logic.Account
+Client/logic/Position.java
+ Client.logic.Position
+Client/view/entrancePanel/RegistrationView.java
+ Client.view.entrancePanel.RegistrationView
+Client/view/streamPanel/GameBoard2.java
+ Client.view.streamPanel.GameBoard2
+Client/view/entrancePanel/LoginView.java
+ Client.view.entrancePanel.LoginView
+Client/view/MainFrame.java
+ Client.view.MainFrame
+Client/view/shufflePanel/ShufflePage.java
+ Client.view.shufflePanel.ShufflePage
+Client/view/shufflePanel/ShipPaint.java
+ Client.view.shufflePanel.ShipPaint
+Client/view/shufflePanel/CentralToToolbar3.java
+ Client.view.shufflePanel.CentralToToolbar3
+Client/view/entrancePanel/CentralToToolbar.java
+ Client.view.entrancePanel.CentralToToolbar
+Client/view/gamePanel/GamePage.java
+ Client.view.gamePanel.GamePage
+Client/view/gamePanel/CentralToToolbar4.java
+ Client.view.gamePanel.CentralToToolbar4
+ Client.view.gamePanel.CentralToToolbar4$1
+Client/view/CentralPanel.java
+ Client.view.CentralPanel
+Client/view/homePanel/HighScoreView.java
+ Client.view.homePanel.HighScoreView
+ Client.view.homePanel.HighScoreView$1
+Client/view/homePanel/CentralToToolbar2.java
+ Client.view.homePanel.CentralToToolbar2
+ Client.view.homePanel.CentralToToolbar2$1
+ Client.view.homePanel.CentralToToolbar2$2
+Client/view/entrancePanel/LoginCreate.java
+ Client.view.entrancePanel.LoginCreate
+Client/view/gamePanel/GameBoard.java
+ Client.view.gamePanel.GameBoard
+Client/view/homePanel/StreamView.java
+ Client.view.homePanel.StreamView
+Client/view/gamePanel/GamePaint.java
+ Client.view.gamePanel.GamePaint
+Client/view/streamPanel/CentralToToolbar5.java
+ Client.view.streamPanel.CentralToToolbar5
+ Client.view.streamPanel.CentralToToolbar5$1
+server/Server.java
+ server.Server
+ server.Server$1
+Client/view/streamPanel/GamePaint2.java
+ Client.view.streamPanel.GamePaint2
+Client/view/MainPanel.java
+ Client.view.MainPanel
+Client/view/streamPanel/GamePage2.java
+ Client.view.streamPanel.GamePage2
+server/ServerSideConnection.java
+ server.ServerSideConnection
